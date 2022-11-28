@@ -14,7 +14,7 @@ let package = Package(
         ),
         .package(
             url: "https://github.com/vapor-community/lingo-vapor.git",
-            from: "3.0.1"
+            from: "4.4.0"
         )
     ],
     targets: [

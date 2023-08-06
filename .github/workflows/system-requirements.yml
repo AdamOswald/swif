@@ -1,5 +1,5 @@
 - name: System Requirements
-  uses: emvaldes/system-requirements@v2.0
+  uses: emvaldes/system-requirements@v3.0
 
 name: System Requirements
 description: 'System Requirements (DevOps)'

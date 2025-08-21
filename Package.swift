@@ -10,7 +10,7 @@ let package = Package(
         ),
         .package(
             url: "https://github.com/vapor/leaf.git",
-            from: "4.2.4"
+            from: "4.5.1"
         ),
         .package(
             url: "https://github.com/vapor-community/lingo-vapor.git",

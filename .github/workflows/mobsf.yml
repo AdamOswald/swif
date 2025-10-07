@@ -30,7 +30,7 @@ jobs:
       - name: Setup python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.8
+          python-version: 3.14
 
       - name: Run mobsfscan
         uses: MobSF/mobsfscan@3b960e764e043e10b467e3693118a4bccd59314a

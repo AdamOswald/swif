@@ -6,7 +6,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/vapor/vapor.git",
-            from: "4.76.0"
+            from: "4.122.1"
         ),
         .package(
             url: "https://github.com/vapor/leaf.git",
